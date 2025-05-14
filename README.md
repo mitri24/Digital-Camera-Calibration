@@ -49,21 +49,6 @@ This repository provides a practical approach to camera calibration, including g
 * Store all images in lossless PNG format to preserve quality.
 * Include all code and analysis in a Jupyter notebook.
 
-## Repository Structure
-
-📁 Camera_Calibration_Project
-│
-├── 📂 images
-│   ├── grayscale_wedge.png
-│   ├── dark_frame_average.png
-│   └── white_frame_average.png
-│
-├── 📂 notebooks
-│   └── Camera_Calibration.ipynb
-│
-└── README.md
-```
-
 ## License
 
 This project is released under the MIT License.
